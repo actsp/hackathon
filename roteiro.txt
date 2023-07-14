@@ -1,0 +1,19 @@
+https://blog.jcharistech.com/2020/05/30/how-to-add-a-login-section-to-streamlit-blog-app/
+
+conda create --name streamlit python=3.10
+conda activate streamlit
+python -m pip install streamlit
+python -m streamlit hello
+
+pip install streamlit --upgrade
+
+
+g:
+cd G:\HACKATHON
+conda activate streamlit
+python -m streamlit run Signup.py
+python -m streamlit run login.py
+
+python -m streamlit run mailSEND.py
+
+python -m streamlit run usuarios.py

@@ -1,0 +1,16 @@
+SUBSTITUIR
+viewformusp=pp_url&entry
+por
+formResponse?&submit=Submit?usp=pp_url&entry
+
+https://docs.google.com/forms/d/e/1FAIpQLSf_KP68GQQQSO-ZRLPGFfZX8FRf7dgztmryFqstC0jhIqAPTA/viewform?usp=pp_url&entry.361325951=MAIL&entry.1818151889=Equipe+01&entry.874436440=NOME&entry.517607907=DUVIDA&entry.180883171=OBS
+
+https://docs.google.com/forms/d/e/1FAIpQLSf_KP68GQQQSO-ZRLPGFfZX8FRf7dgztmryFqstC0jhIqAPTA/formResponse?&submit=Submit?usp=pp_url&entryhttps://docs.google.com/forms/d/e/1FAIpQLSf_KP68GQQQSO-ZRLPGFfZX8FRf7dgztmryFqstC0jhIqAPTA/formResponse?&submit=Submit?usp=pp_url&entry.361325951=
+&entry.361325951=MAIL
+&entry.1818151889=Equipe+01
+&entry.874436440=NOME
+&entry.517607907=DUVIDA
+&entry.180883171=OBS
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSf_KP68GQQQSO-ZRLPGFfZX8FRf7dgztmryFqstC0jhIqAPTA/formResponse?&submit=Submit?usp=pp_url&entry.361325951=MAIL&entry.1818151889=Equipe+01&entry.874436440=NOME&entry.517607907=DUVIDA&entry.180883171=OBS

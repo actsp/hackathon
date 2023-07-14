@@ -1,0 +1,8 @@
+streamlit
+pandas
+webbrowser
+requests
+beautifulsoup4
+time
+datetime
+pytz
